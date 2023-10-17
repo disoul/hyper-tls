@@ -17,7 +17,7 @@ vendored = ["native-tls/vendored"]
 bytes = "1"
 native-tls = "0.2.1"
 #hyper = { version = "0.14.2", default-features = false, features = ["tcp", "client"] }
-hyper = { git = "https://github.com/disoul/hyper.git", rev = "711b1b1", default-features = false, features = ["tcp", "client"] }
+hyper = { git = "https://github.com/disoul/hyper.git", rev = "00652b1", default-features = false, features = ["tcp", "client"] }
 tokio = "1"
 tokio-native-tls = "0.3"
 
