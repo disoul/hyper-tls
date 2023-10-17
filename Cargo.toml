@@ -24,4 +24,4 @@ tokio-native-tls = "0.3"
 [dev-dependencies]
 tokio = { version = "1.0.0", features = ["io-std", "macros", "io-util"] }
 #hyper = { version = "0.14.2", default-features = false, features = ["http1"] }
-hyper = { git = "https://github.com/disoul/hyper.git", rev = "711b1b1", default-features = false, features = ["http1"] }
+hyper = { git = "https://github.com/disoul/hyper.git", rev = "00652b1", default-features = false, features = ["http1"] }
